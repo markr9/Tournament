@@ -6,3 +6,5 @@ Reverse fixtures non-randomised.
 Set at default of 20 players and can be used for odd number of players.
 
 (Visual Studio upload)
+
+[LM: 28th/12/17]
